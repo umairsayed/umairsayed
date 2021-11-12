@@ -3,6 +3,9 @@
 
 - 🔭 I’m currently working on **Dashboard Application for Machine Condition Analysis and Troubleshooting**
 
+- 📫 How to reach me **umairsayed71@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
