@@ -3,8 +3,9 @@
 
 - 🔭 I’m currently working on **Dashboard Application for Machine Condition Analysis and Troubleshooting**
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me umairsayed71@gmail.com
+- 📫 How to reach me **umairsayed71@gmail.com**
+
+
 <p align="left">
 </p>
 
